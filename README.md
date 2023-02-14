@@ -1,6 +1,6 @@
 ## TinkerHub SJCET [Dev Branch]
 
-## How to run
+## How to run 🏃
 
 1.  Clone this repo
 
@@ -12,7 +12,7 @@
 
 3.  Start tailwind
 
-            npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch
+        npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch
 
 4.  Add html file to build/pages folder
 
